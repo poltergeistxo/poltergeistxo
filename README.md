@@ -1,1 +1,3 @@
-<img src="ad811f8a19772b32ce969ac831fc0bca.jpg" width="6000">
+<img
+src="8fee8be51d1ba8fe947e365bc25784e3.jpg"
+width="100%">
